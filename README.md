@@ -1,5 +1,12 @@
 #
 ::
+##
+##
+#####
+##
+##
+# web-code(website-coding))  ----  essentials..  . ./.
+<img width="2816" height="1536" alt="php_include_short_example_html_php" src="https://github.com/user-attachments/assets/64945193-337b-473f-9bb1-c9ed51bd217a" />
 #
 ##
 ##
