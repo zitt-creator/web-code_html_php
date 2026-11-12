@@ -13,9 +13,15 @@
 #####
 ##
 ##
-#
 # n o t e
-# p h p include  ----  .php  ///  .txt  ;  etc.  /  to any .html file(example::  index.html))
+the php include command is useful for building website structures with easy usable folder structures..  . ./.
+#
+some websites only need the index.html mainpage and everything else will be included with (php include))..  . ./.
+#
+files can be included in tables within the .html webpage code to generate dynamic in - and output..  . ./.
+##
+##
+#####
 ##
 ##
 #####
