@@ -23,7 +23,7 @@
 ##
 ##
 #
-# n o t e
+# n o t e......
 the php include command is useful for building website structures with easy usable folder structures..  . ./.
 #
 some websites only need the index.html mainpage and everything else will be included with (php include))..  . ./.
